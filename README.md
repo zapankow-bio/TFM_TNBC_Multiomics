@@ -1,6 +1,6 @@
 # TFM – Integración Multiómica en Cáncer de Mama Triple Negativo (TNBC)
 
-Repositorio que contiene los códigos y scripts desarrollados durante el Trabajo Final de Máster en Bioinformática y Bioestadística (UOC), titulado:
+Repositorio que contiene los códigos desarrollados durante el Trabajo Final de Máster en Bioinformática y Bioestadística (UOC), titulado:
 
 **“Análisis integrativo multiómico en cáncer de mama triple negativo para la identificación de perfiles moleculares asociados al pronóstico clínico”**
 
