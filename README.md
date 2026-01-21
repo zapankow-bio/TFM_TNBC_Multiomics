@@ -2,7 +2,7 @@
 
 Repositorio que contiene los códigos y scripts desarrollados durante el Trabajo Final de Máster en Bioinformática y Bioestadística (UOC), titulado:
 
-**“Integración de datos multiómicos para la caracterización molecular y estratificación pronóstica del cáncer de mama triple negativo”**
+**“Análisis integrativo multiómico en cáncer de mama triple negativo para la identificación de perfiles moleculares asociados al pronóstico clínico”**
 
 ---
 
@@ -19,5 +19,7 @@ Este repositorio tiene como finalidad documentar y poner a disposición el pipel
 - Integración multiómica  
 - Modelado y análisis exploratorio mediante MOFA2  
 - Generación de figuras y resultados finales  
+
+El objetivo principal es integrar estas fuentes de información mediante enfoques bioinformáticos para identificar patrones moleculares asociados al pronóstico clínico.
 
 ---
