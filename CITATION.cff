@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "TFM_TNBC_Multiomics"
+message: "If you use this code, please cite it as follows."
+authors:
+  - family-names: Pankow Fariña
+    given-names: Zanie Stella
+year: 2025
+url: https://github.com/zapankow-bio/TFM_TNBC_Multiomics
