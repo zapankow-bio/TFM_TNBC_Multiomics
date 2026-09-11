@@ -48,12 +48,21 @@ Matrices procesadas y exportadas para la integración multiómica, correspondien
 - `TNBC_For.Integration_Methylation.xlsx`
 - `TNBC_For.Integration_CNV.xlsx`
 - `TNBC_For.Integration_SNV.xlsx`
+## Copyright and Code Reuse
 
+Copyright © 2026 Zanie Stella Pankow Farina. All Rights Reserved.
+
+This repository is publicly available for academic transparency, review, and reproducibility purposes only.
+
+No permission is granted to copy, reuse, modify, redistribute, sublicense, commercialize, or incorporate the source code, in whole or in substantial part, into another work without prior written permission from the copyright holder.
+
+Any authorized reuse of the source code must retain attribution to Zanie Stella Pankow Farina and cite the associated work.
+
+For permission to reuse the source code, please contact the copyright holder.
+
+### Citation
+
+Pankow, Z. (2026). *Integrative multi-omics analysis of triple-negative breast cancer to identify molecular profiles associated with clinical prognosis*. Zenodo. DOI: 10.5281/zenodo.19791106
 ---
 
-## ▶️ Cómo ejecutar
 
-1) Clonar el repositorio:
-```bash
-git clone https://github.com/zapankow-bio/TFM_TNBC_Multiomics.git
-cd TFM_TNBC_Multiomics
